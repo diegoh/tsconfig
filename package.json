@@ -1,0 +1,27 @@
+{
+  "name": "@diegoh/tsconfig",
+  "version": "1.0.0",
+  "description": "Shareable typescript config for node projects",
+  "keywords": [
+    "node",
+    "typescript",
+    "tsconfig"
+  ],
+  "main": "src/tsconfig.json",
+  "files": [
+    "src/tsconfig.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoh/tsconfig.git"
+  },
+  "author": "Diego Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoh/tsconfig/issues"
+  },
+  "homepage": "https://github.com/diegoh/tsconfig#readme",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
