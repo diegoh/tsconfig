@@ -25,3 +25,10 @@ In your `tsconfig.json`
 3. Request a code review.
 
 When integrating back to the mainline commits should be **Squash merged**.
+
+
+## Reference
+
+Typescript Documentation (tsconfig.json)
+<https://www.typescriptlang.org/docs/handbook/tsconfig-json.html>
+

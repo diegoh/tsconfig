@@ -2,7 +2,6 @@
   "name": "@diegoh/tsconfig",
   "version": "1.0.0",
   "description": "Shareable typescript config for node projects",
-  "prettier": "./src/prettier.js",
   "keywords": [
     "node",
     "typescript",
