@@ -1,6 +1,7 @@
 # @diegoh/tsconfig
 
-Shareable typescript config for node projects
+
+Base typescript config for Node.js projects.
 
 ## Usage
 
@@ -14,7 +15,7 @@ In your `tsconfig.json`
 
 ```json
 {
-    "extends": "@diegoh/tsconfig"
+  "extends": "@diegoh/tsconfig" master
 }
 ```
 
@@ -26,9 +27,7 @@ In your `tsconfig.json`
 
 When integrating back to the mainline commits should be **Squash merged**.
 
-
 ## Reference
 
 Typescript Documentation (tsconfig.json)
 <https://www.typescriptlang.org/docs/handbook/tsconfig-json.html>
-
