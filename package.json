@@ -1,6 +1,6 @@
 {
   "name": "@diegoh/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shareable typescript config for node projects",
   "keywords": [
     "node",
