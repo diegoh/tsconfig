@@ -1,5 +1,6 @@
 # @diegoh/tsconfig
 
+
 Base typescript config for Node.js projects.
 
 ## Usage
@@ -14,7 +15,7 @@ In your `tsconfig.json`
 
 ```json
 {
-  "extends": "@diegoh/tsconfig"
+  "extends": "@diegoh/tsconfig" master
 }
 ```
 
