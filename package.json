@@ -16,7 +16,7 @@
     "url": "git+https://github.com/diegoh/tsconfig.git"
   },
   "author": "Diego Herrera",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/diegoh/tsconfig/issues"
   },
