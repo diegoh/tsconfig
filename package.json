@@ -1,6 +1,6 @@
 {
   "name": "@diegoh/tsconfig",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Base typescript config for Node.js projects.",
   "keywords": [
     "node",
@@ -16,7 +16,7 @@
     "url": "git+https://github.com/diegoh/tsconfig.git"
   },
   "author": "Diego Herrera",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/diegoh/tsconfig/issues"
   },
