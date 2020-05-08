@@ -1,5 +1,8 @@
 # @diegoh/tsconfig
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Package Version](https://img.shields.io/npm/v/@diegoh/tsconfig)
+
 Base typescript config for Node.js projects.
 
 ## Usage
